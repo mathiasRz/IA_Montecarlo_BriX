@@ -1,5 +1,6 @@
 # projet_si_MBR
-
+seuls les fichiers "montecarlo" et "Joueur_MonteCarlo_MBR" dans le repertoire "joueurs" ont été implémentés dans ce projet de L3, le reste 
+étant le jeu et l'arene, nous ont été fournis au début.
 Les fichiers supplémentaire nécessaires au joueur "Joueur_MonteCarlo_MBR" sont dans le dossier "montecarlo".
 
 IMPORTANT : Avant toute chose, s'assurer que dans le fichier "arbitre.hh" il y ait bien : 
